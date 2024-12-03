@@ -24,4 +24,5 @@
 # Ventas
 ![image](https://github.com/user-attachments/assets/00e2b23a-9c10-4932-88e6-088af9ab35da)
 # Editar ventas
-![image](https://github.com/user-attachments/assets/090805db-5534-49c8-89cb-34030761517c)
+![image](https://github.com/user-attachments/assets/06c61305-80d7-44d0-a4dd-d4643abc013f)
+
